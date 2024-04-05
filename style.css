@@ -1,0 +1,223 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: repeat(10, 1fr);
+    grid-template-columns: repeat(20, 1fr);
+}
+
+body { 
+    font-family: Helvetica, Arial;
+    font-style: italic;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    grid-area: 5/1/9/21;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    /*-webkit-text-stroke: 1px rgb(108, 3, 3);*/
+    font-size: 4vh;
+}
+
+a {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(140, 2, 2)
+}
+
+.start {
+    grid-area: 6/1/7/21;
+}
+
+.option1 {
+    grid-area: 6/10/7/11;
+    text-align: center;
+}
+
+.option2 {
+    grid-area: 6/11/7/12;
+    text-align: center;
+}
+
+.option3 {
+    grid-area: 7/10/8/11;
+    text-align: center;
+}
+
+.option3_ {
+    grid-area: 7/10/8/12;
+    text-align: center;
+}
+
+.option4 {
+    grid-area: 7/11/8/12;
+    text-align: center;
+}
+
+button {
+    appearance: none;
+    background-color: transparent;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #3B3B3B;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Helvetica, Arial;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    min-height: 80px;
+    min-width: 90px;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+button:hover {
+  color: #fff;
+  background-color: #1A1A1A;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+}
+
+#q1 {
+    font-family: Helvetica;
+}
+
+#q1a {
+    font-family: Helvetica;
+}
+
+#q1b {
+    font-family: Helvetica;
+}
+
+#q1c {
+    font-family: Helvetica;
+}
+
+#q1d {
+    font-family: Helvetica;
+}
+
+#q2 {
+    font-family: Helvetica;
+}
+
+#q2a {
+    font-family: Helvetica;
+}
+
+#q2b {
+    font-family: Helvetica;
+}
+
+#q3 {
+    font-family: Helvetica;
+}
+
+#q3a {
+    font-family: Helvetica;
+}
+
+#q3b {
+    font-family: Helvetica;
+}
+
+#q4 {
+    font-family: Helvetica;
+}
+
+#q4a {
+    font-family: Helvetica;
+}
+
+#q4b {
+    font-family: Helvetica;
+}
+
+#q4c {
+    font-family: Helvetica;
+}
+
+#q4d {
+    font-family: Helvetica;
+}
+
+#q5 {
+    font-family: Helvetica;
+}
+
+#q5a {
+    font-family: Helvetica;
+}
+
+#q5b {
+    font-family: Helvetica;
+}
+
+#q5c {
+    font-family: Helvetica;
+}
+
+#q5d {
+    font-family: Helvetica;
+}
+
+#q6 {
+    font-family: Helvetica;
+}
+
+#q6a {
+    font-family: Helvetica;
+}
+
+#q6b {
+    font-family: Helvetica;
+}
+
+#q6c {
+    font-family: Helvetica;
+}
+
+#q7 {
+    font-family: Helvetica;
+}
+
+#q7a {
+    font-family: Helvetica;
+}
+
+#q7b {
+    font-family: Helvetica;
+}
+
+#q8 {
+    font-family: Helvetica;
+}
+
+#q8a {
+    font-family: Helvetica;
+}
+
+#q8b {
+    font-family: Helvetica;
+}
+
+#q9 {
+    font-family: Helvetica;
+}
+
+#q9a {
+    font-family: Helvetica;
+}
+
+#q9b {
+    font-family: Helvetica;
+}
