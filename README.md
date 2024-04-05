@@ -4,6 +4,7 @@ This is a quiz that will tell you if the average Chinese parents will accept and
 I started by thinking about what I wanted to evoke with my quiz. I thought something humourous 
 with a hint of truth would be interesting, so I brainstormed ideas for a quiz based off of those emotions.
 That is how I came up with the question, "Would the average Chinese parents accpet and be proud of you?"
+I wanted the site to appear simple and minimalistic. I tried using different colors, but in the end, I felt that white and black looked the best, and reflected how the standards held by many Chinese parents feel black and white, like there is no room for grey space.
 
 **Challenges Faced**
 I think the most challenging part of this project was the javascript. I wasn't familiar with event
